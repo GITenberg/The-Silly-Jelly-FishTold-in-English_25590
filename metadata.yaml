@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/947
     wikipedia: http://en.wikipedia.org/wiki/Basil_Hall_Chamberlain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25590#The-Silly-Jelly-FishTold-in-English
 gutenberg_issued: '2008-05-25'
 gutenberg_type: Text
 identifiers:
